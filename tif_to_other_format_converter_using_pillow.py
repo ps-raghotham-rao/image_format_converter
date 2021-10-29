@@ -26,3 +26,4 @@ for file in path:
     print(path_to_store_images_with_file_name)
     im = Image.open(file)
     im.save(path_to_store_images_with_file_name)
+    
