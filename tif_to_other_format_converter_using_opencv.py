@@ -1,4 +1,5 @@
-# Using PILLOW
+# Using OpenCV
+
 
 import glob
 import cv2
