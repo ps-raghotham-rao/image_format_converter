@@ -26,6 +26,7 @@ for file in path:
     print(path_to_store_images_with_file_name)
     im = cv2.imread(file)
     cv2.imwrite(path_to_store_images_with_file_name, im, [int(cv2.IMWRITE_JPEG_QUALITY),100])
+    
 
 
 
