@@ -1,10 +1,9 @@
-# Using PILLOW
 
 import glob
+import PIL
 from PIL import Image
 
 def tif_image_converter(old_format,new_format, img_path, path_to_store_converted_images):
-
     # old_format - The image format which is to be converted, is appended to img_path.
     path = glob.glob(img_path+"\*."+str(old_format))
     
@@ -15,9 +14,13 @@ def tif_image_converter(old_format,new_format, img_path, path_to_store_converted
         file_name = file.split('\\')[-1].split('.')[0] + "." + new_format
         path_to_store_images_with_file_name = path_to_store_converted_images+file_name
         # print(path_to_store_images_with_file_name)
-        im = Image.open(file)
-        print(im.save(path_to_store_images_with_file_name))
+        try:
+            im = Image.open(file)    
+            im.save(path_to_store_images_with_file_name)
+        except Exception as err:
+            print(err)     
 
+        
 
 # Old Format - Existing image format. New format - The desirable format which you want to conver the image to.
 old_format = "tif"
