@@ -1,0 +1,337 @@
+Good Evening,
+
+Please find my progress report.
+
+Week 13 (10-01-2022 to 14-01-2022) -
+•Trained integrated CycleGAN with 150, 300 and 500 epochs with different hyperparameters. Accurate dust images are generated in 300 epoch range.
+•Using pretrained weights of model trained previously with open source CycleGAN with toolkit to improve quality of the images further.
+
+Thanks & Regards,
+
+P S Raghotham Rao
+
+6305602201
+
+ 
+
+ 
+
+--------- Original Message ---------
+
+Sender : P S Raghotham Rao <raghotham.rao@partner.samsung.com> Intern/SEM-B/Samsung Electro-Mechanics
+
+Date : 2022-01-10 14:58 (GMT+9)
+
+Title : Progress Report of Week 12
+
+ 
+
+Good Evening,
+
+Please find my progress report.
+
+Week 12 (03-01-2022 to 07-01-2022) -
+•CycleGAN Integration (Completed).
+•Various training and testing with different hyperparameters is being done to generate accurate dust images from integrated CycleGAN.
+
+Thanks & Regards,
+
+P S Raghotham Rao
+
+6305602201
+
+ 
+
+--------- Original Message ---------
+
+Sender : P S Raghotham Rao <raghotham.rao@partner.samsung.com> Intern/SEM-B/Samsung Electro-Mechanics
+
+Date : 2022-01-03 20:37 (GMT+9)
+
+Title : Progress Report of Week 11
+
+ 
+
+Good Evening,
+
+Please find my progress report.
+
+Week 11 (27-12-2021 to 31-12-2021) -
+•CycleGAN Integration - Images are generated with colored pigments when integrated with SEMAI Tool. Similar kind of results were seen during StarGAN and StyleGAN integration.
+
+Thanks & Regards,
+
+P S Raghotham Rao
+
+6305602201
+
+ 
+
+ 
+
+--------- Original Message ---------
+
+Sender : P S Raghotham Rao <raghotham.rao@partner.samsung.com> Intern/SEM-B/Samsung Electro-Mechanics
+
+Date : 2021-12-27 14:03 (GMT+9)
+
+Title : Progress Report of Week 10
+
+ 
+
+Good Evening,
+
+Please find my progress report.
+
+Week 10 (20-12-2021 to 23-12-2021) -
+•CycleGAN Integration (In Progress). Loading and saving the checkpoint needs to be done.
+
+Thanks & Regards,
+
+P S Raghotham Rao
+
+6305602201
+
+ 
+
+--------- Original Message ---------
+
+Sender : P S Raghotham Rao <raghotham.rao@partner.samsung.com> Intern/SEM-B/Samsung Electro-Mechanics
+
+Date : 2021-12-20 14:35 (GMT+9)
+
+Title : Progress Report of Week 9
+
+ 
+
+Good Evening,
+
+Please find my progress report.
+
+Week 9 (13-12-2021 to 17-12-2021) -
+•Analysing and training on various open source GAN Models to check if it produces better result for the HQ Dataset - CycleGAN, StyleGAN ALAE.
+•Trying Differential Augmentation on dataset to check if model gives better result.
+
+ 
+
+Thanks & Regards,
+
+P S Raghotham Rao
+
+6305602201
+
+ 
+
+--------- Original Message ---------
+
+Sender : P S Raghotham Rao <raghotham.rao@partner.samsung.com> Intern/SEM-B/Samsung Electro-Mechanics
+
+Date : 2021-12-10 22:33 (GMT+9)
+
+Title : Progress Report of Week 8
+
+ 
+
+Good Evening,
+
+Please find my progress report.
+
+Week 8 (06-12-2021 to 10-12-2021) -
+•Sanity Testing on latest exe for package release.
+•GAN Training of CelebA and HQ Dataset. Also checked other GAN Models, if they give better results than current model for HQ Dataset. (In Progress)
+•Code walkthrough of SingleX and MultiX Classification module by Brijendra.
+
+ 
+
+Thanks & Regards,
+
+P S Raghotham Rao
+
+6305602201
+
+ 
+
+--------- Original Message ---------
+
+Sender : Raghotham Rao PS <raghotham.rao@partner.samsung.com> Intern/SEM-B/Samsung Electro-Mechanics
+
+Date :  2021-12-03 22:23 (GMT+9)
+
+Title : Progress Report of Week 7
+
+ 
+
+Good Evening,
+
+Please find my progress report. 
+
+Week 7 (29-11-2021 to 3-12-2021) -
+•GAN Metrics Batch Wise Implementation (Completed).
+•GAN Augmentation Testing (Completed).
+•Evaluation of StarGAN with implemented GAN Metrics  - Placed training on more powerful GPU machine as CUDA error came on previous training. (In progress)
+
+ 
+
+Thanks & Regards, 
+
+P S Raghotham Rao 
+
+6305602201
+
+ 
+
+ 
+
+--------- Original Message ---------
+
+Sender : Raghotham Rao PS <raghotham.rao@partner.samsung.com> Intern/SEM-B/Samsung Electro-Mechanics
+
+Date : 2021-11-26 22:45 (GMT+9)
+
+Title : Progress Report of Week 6
+
+ 
+
+Good Evening,
+
+Please find my progress report.
+
+Week 6 (22-11-2021 to 26-11-2021) -
+•Evaluation of StarGAN with implemented GAN Metrics - Used CelebA Dataset to evaluate the model and compared with official star-gan paper.
+•GAN Augmentation Testing (In Progress).
+
+ 
+
+Thanks & Regards,
+
+P S Raghotham Rao
+
+6305602201
+
+ 
+
+--------- Original Message ---------
+
+Sender : Raghotham Rao PS <raghotham.rao@partner.samsung.com> Intern/SEM-B/Samsung Electro-Mechanics
+
+Date : 2021-11-19 21:47 (GMT+9)
+
+Title : Progress Report of Week 5
+
+ 
+
+Good Evening,
+
+Please find my progress report.
+
+Week 5 (15-11-2021 to 19-11-2021) -
+•Integration of FID Score. 
+•Optimizing the FID and Inception Score to use same model.
+•Improvements in performance of Inception Score. Methods are implemented to obtain a batched version of the activations which has the advantage to reduce memory requirements, at the cost of slightly reduced efficiency.
+•KT on exe generation.
+•Sanity Testing.
+
+ 
+
+Thanks & Regards,
+
+P S Raghotham Rao
+
+6305602201
+
+ 
+
+ 
+
+--------- Original Message ---------
+
+Sender : Raghotham Rao PS <raghotham.rao@partner.samsung.com> Intern/SEM-B/Samsung Electro-Mechanics
+
+Date : 2021-11-15 17:30 (GMT+9)
+
+Title : Progress Report of Week 4
+
+ 
+
+Good Morning,
+
+Please find my progress report.
+
+Week 4 (8-11-2021 to 12-11-2021) -
+•Implemented Evaluation Metrics - FID, Inception Score for Generative Adversarial Network. •Accuracy same as the official implementation. 
+•Updated the deprecated dependencies - scipy to matplotlib. 
+•Upgraded the official implementation of FID from Tensorflow 1.x to Tensorflow 2.x which is compatible for integration.
+•Object Oriented Approach is used for efficient integration and usage of evaluation of metrics.
+
+
+ 
+
+Thanks & Regards,
+
+P S Raghotham Rao
+
+6305602201
+
+ 
+
+--------- Original Message ---------
+
+Sender : Raghotham Rao PS <raghotham.rao@partner.samsung.com> Intern/SEM-B/Samsung Electro-Mechanics
+
+Date : 2021-11-08 14:41 (GMT+9)
+
+Title : Progress Report of Week 3
+
+ 
+
+Good Morning,
+
+Please find my progress report.
+
+Week 3 (2-11-2021 to 4-11-2021) -
+•KT on Classification Module. Code Walkthrough of DLProcessWrapper, DLProcessFunc
+•GAN - BCE Loss, Batch Normalization, Transposed Convolution, Pooling and Upsampling, Basic GAN Implementation, DCGAN.
+•StarGAN Working
+
+ 
+
+Thanks & Regards,
+
+P S Raghotham Rao
+
+6305602201
+
+ 
+
+--------- Original Message ---------
+
+Sender : Raghotham Rao PS <raghotham.rao@partner.samsung.com> Intern/SEM-B/Samsung Electro-Mechanics
+
+Date : 2021-11-03 20:50 (GMT+9)
+
+Title : Progess Report of Week 1 and Week 2
+
+ 
+
+Good evening,
+Please find my progress report-
+
+ 
+
+Week 1 (18-10-2021 to 22-10-2021) -
+•DNN, CNN from YouTube and from a book - AI and Machine Learning for Coders by Laurence Moroney
+•Did problems related to understanding of fundamentals on CNN given by mentor and also gotten many doubts clarified related to CNN and DNN.
+•Transfer Learning and Different Metrics.
+•Tensorflow. 
+
+Week 2 (25-10-2021 to 29-10-2021) -
+•GANS - StyleGan, StarGan.
+•Coursera – Generative Adversal Network Speicialization – DeepLearning.ai (Ongoing) 
+•SEM AI-Frontier Tool Installation, Environment setup. Explored the tool and also did some projects using custom prepared dataset.
+•Built an image converter that can convert from any image format to any other image format. Example .tif to .jpeg format which was required. This is done without storing the images while conversion using BytesIO, glob, Pillow and OpenCV. Also made a directory upload and individual image object upload. Still testing needs to be done to implement to the actual use case. (In progress).
+
+ 
+
+Thanks & Regards,
+
+P S Raghotham Rao
